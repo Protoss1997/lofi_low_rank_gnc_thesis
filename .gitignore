@@ -1,0 +1,19 @@
+# Binarios
+*.o
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
